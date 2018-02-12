@@ -127,14 +127,16 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     position: relative;
 }
 .agileinfo-dot {
-    background: url(../images/dott.png)repeat 0px 0px;
-    background-size: 2px;
+    /*background: url(../images/dott.png)repeat 0px 0px;*/
+    background: url(../images/banner.JPG);
+   /* background-size: 2px;
     -webkit-background-size: 2px;
     -moz-background-size: 2px;
     -o-background-size: 2px;
     -ms-background-size: 2px;
     min-height: 770px;
     padding: 1em 0;
+    */
 }
 .w3_agileits_banner_main_grid{
 	padding:2em 0 0;
@@ -1197,6 +1199,7 @@ ul.top-links li a i.fa {
     -moz-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
     -ms-transition: all 0.5s ease-in-out;
+    border-radius: 100%;
 }
 ul.top-links li a i.fa:hover {
     background: #dedede;
@@ -1240,7 +1243,7 @@ iframe {
     width: 30%;
     float: left;
     font-size: 27px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
     margin-top: .3em;
 }
 .copyright-agile p {
@@ -1251,7 +1254,7 @@ iframe {
     margin-top: .6em;
     letter-spacing: 1px;
     font-size: 14px;
-    text-transform: uppercase;
+    /*text-transform: uppercase;*/
 }
 .copyright-agile a {
     color: #11b563;
