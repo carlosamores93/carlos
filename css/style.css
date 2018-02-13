@@ -128,15 +128,14 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 }
 .agileinfo-dot {
     /*background: url(../images/dott.png)repeat 0px 0px;*/
-    background: url(../images/banner.JPG);
-   /* background-size: 2px;
-    -webkit-background-size: 2px;
-    -moz-background-size: 2px;
-    -o-background-size: 2px;
+    background: url(../images/banner.JPG) no-repeat center center fixed;;
+   	background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     -ms-background-size: 2px;
     min-height: 770px;
     padding: 1em 0;
-    */
 }
 .w3_agileits_banner_main_grid{
 	padding:2em 0 0;
