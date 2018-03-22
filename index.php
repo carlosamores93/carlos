@@ -13,21 +13,15 @@
 
 
 
-		<!-- Portfolio-CSS -->	<link rel="stylesheet" href="css/swipebox.css" type="text/css" media="all">
-				
-		<link href="css/aos.css" rel="stylesheet" type="text/css" media="all" /><!-- //animation effects-css-->
-
-		<link rel="stylesheet" href="css/index.css"><!-- skills bars CSS-->
-
-		<!-- custom-theme -->
+		<link href="css/all.min.css" rel="stylesheet">
+		<!--
+		<link rel="stylesheet" href="css/swipebox.css" type="text/css" media="all">
+		<link href="css/aos.css" rel="stylesheet" type="text/css" media="all" />
+		<link rel="stylesheet" href="css/index.css">
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 		<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-		<!-- //custom-theme -->
-			  
-		<!-- font-awesome-icons -->
-		<link href="css/font-awesome.css" rel="stylesheet"> 
-		<!-- //font-awesome-icons -->
-
+		<link href="css/font-awesome.css" rel="stylesheet">
+		-->
 		
 
 	</head>
