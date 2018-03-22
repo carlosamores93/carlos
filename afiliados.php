@@ -9,7 +9,7 @@
     </iframe>
 	</div>
 
-	<div class="col-md-4">
+	<div class="col-md-4 hidden-xs">
 		<iframe style="border:none;width:  300px;height:  250px;" src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=12&l=ur1&category=informatica&banner=1GZMTXW4K3DWBWD3VAR2&f=ifr&linkID=fddc5d0a9053b6f35460e4251c5faf46&t=amorescarlos9-21&tracking_id=amorescarlos9-21" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" ></iframe>
 
 	</div>
