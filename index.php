@@ -3,7 +3,7 @@
 	<head>
 		<title> Carlos Salvador Amores Martínez</title>
 		<link rel="icon" href="images/carlos.png">
-
+		<link rel="canonical" href="http://www.carlosamores.hol.es/">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="description" content="Pagina de Carlos Salvador Amores Martinez, trabajador de iAhorro B. S. Vivo en Madrid, tengo 24 años." />
