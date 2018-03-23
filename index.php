@@ -53,8 +53,9 @@
  	<?php
     	require("contact.php");
     ?>
-	/*
+	
 	<?php
+	/*
     	require("location.php");
 	*/
     ?>
