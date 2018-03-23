@@ -55,14 +55,16 @@
     ?>
 	
 	<?php
-	/*
+	
     	require("location.php");
-	*/
+	
     ?>
 
     <?php
+	/*
     	require("afiliados.php");
-    ?>
+    	*/
+	?>
 
 	<?php
     	require("footer.php");
