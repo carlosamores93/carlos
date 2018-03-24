@@ -4,7 +4,7 @@
 
 	// Vamos a obtener los valores del formulario
 	$nombre = $_POST['Name'];
-	$company = $_POST['CompanyName'];
+	$asunto = $_POST['Asunto'];
 	$email = $_POST['Email'];
 	$tel = $_POST['Phone'];
 	$msg = $_POST['Message'];
@@ -12,13 +12,12 @@
 
 
 
-	echo "$nombre";
-	echo "$company";
-	echo "$email";
-	echo "$tel";
-	echo "$msg";
+	$mensaje = 'Mensaje de ' . $nombre . ', con email ' . $email . '. Mensaje: ' . $msg;
 
-	
+	if(mail('amorescarlos93@hotmail.com', $asunto, $mensaje)){
+		echo "Todo ok";
+	}
+
 	//header('Location: index.php');
 
 
