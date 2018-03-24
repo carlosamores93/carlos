@@ -9,12 +9,14 @@
 				</div> 
 				<div class="modal-body">
 					<div class="modalpad"> 
+					<!--
 						<div class="modalpop ">
 							<img src="images/cami.jpg" class="img-responsive" alt=""/>
 						</div>
+					-->
 						<div class="about-modal wthree">
-							<h3>Hi, I'm <span>Carlos Amores</span></h3>
-							<h4>Programador Back-end</h4>
+							<h3> <span>Carlos S Amores M</span></h3>
+							<h4>Programador back-end</h4>
 							<ul class="address">
 								<li>
 									<ul class="agileits-address-text ">

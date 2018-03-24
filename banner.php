@@ -24,7 +24,7 @@
 							<li><a class="page-scroll scroll" href="#about">Acerca de mi</a></li>
 							<li><a class="page-scroll scroll" href="#skills">Conocimientos</a></li>
 							<li><a class="page-scroll scroll" href="#education">Educación </a></li>
-							<li><a class="page-scroll scroll" href="#education">Experiencia </a></li>
+							<li><a class="page-scroll scroll" href="#experiencia">Experiencia </a></li>
 							<li><a class="page-scroll scroll" href="#contact">Contacto</a></li>
 							<li><a class="page-scroll scroll" href="#map">Locate me</a></li>
 						</ul>

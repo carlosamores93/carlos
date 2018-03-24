@@ -1,12 +1,17 @@
 <div class="about" id="about">
-	<h3 data-aos="zoom-in">About me</h3>
+	<h3 data-aos="zoom-in">Acerca de mi </h3>
 	<div class="col-md-6 about-left">
-		<p>Me llamo Carlos Amores, tengo 23 años, vivo en Madrid hace 18 años.</p>
-		<p>Nací en Ecuador, estudié en Madrid gran parte de Primaria, Secundaria, Bachillerato y el Grado de Ing Computadores.</p>
-		<img src="" alt=" Mi Firma" />
+		<p>Me llamo Carlos Salvador Amores Martínez, nací en 1 de Marzo de 1993 en <a href="http://www.lamana.gob.ec/">La Maná</a>, <a href="https://ecuadoramalavida.com.ec/">Ecuador</a></p>
+		<p> Viví gran parte de mi infancia en mi pais de nacimiento. A los 7 años viaje a Madrid y es aquí donde he estudié parte de Primaria, ESO, el Bachiller y la Universidad.
+		</p>
+		<p> <strong> Primaria:</strong> de 3º  a 6º en el Colegio Dulce Nombre de Jesús, barrio Salamca, Madrid.</p>
+		<p> <strong> Educación Secundaria Obligatoria:</strong> de 1º a 4º ESO en el IES Carlos Mª Rodriguez de Valcárcel , barrio Moratalaz, Madrid.</p>
+		<p> <strong> Bachillerato:</strong> de 1º a 2º en el IES Felipe II , barrio Moratalaz, Madrid.</p>
+		<p> <strong> Grado Ing Computadores:</strong> en la Facultad de Infórmatica, Uniersidad Complutense de Madrid.</p>
+		<img src="" alt="Firma Carlos Amores" />
 	</div>
 	<div data-aos="flip-right" class="col-md-6 about-right">
-		<img src="" alt="Foto mia" />
+		<img src="" alt="Foto Carlos Amores" />
 	</div>
 	<div class="clearfix"></div>
 </div>
