@@ -21,10 +21,11 @@
 							<!-- Hidden li included to remove active class from about link when scrolled up past about section -->
 							<li class="hidden"><a class="page-scroll" href="#page-top"></a>	</li>
 							<li><a class="page-scroll scroll" href="#home">Home</a></li>
-							<li><a class="page-scroll scroll" href="#about">About</a></li>
-							<li><a class="page-scroll scroll" href="#skills">Skills</a></li>
-							<li><a class="page-scroll scroll" href="#education">Education/Experience </a></li>
-							<li><a class="page-scroll scroll" href="#contact">Contact</a></li>
+							<li><a class="page-scroll scroll" href="#about">Acerca de mi</a></li>
+							<li><a class="page-scroll scroll" href="#skills">Conocimientos</a></li>
+							<li><a class="page-scroll scroll" href="#education">Educación </a></li>
+							<li><a class="page-scroll scroll" href="#education">Experiencia </a></li>
+							<li><a class="page-scroll scroll" href="#contact">Contacto</a></li>
 							<li><a class="page-scroll scroll" href="#map">Locate me</a></li>
 						</ul>
 					</div>
@@ -41,8 +42,18 @@
 					<h5>Desarrollador Web</h5>
 					<p> </p>
 					<ul data-aos="slide-up">
-						<li><a href="#" class="w3ls_more" data-toggle="modal" data-target="#myModal">Know More</a></li>
-						<!-- <li><a href="#" class="scroll w3l_contact"><i class="fa fa-download" aria-hidden="true"></i> Download CV</a></li> -->
+						<li>
+							<a href="#" class="w3ls_more" data-toggle="modal" data-target="#myModal">
+								Conóceme
+							</a>
+						</li>
+						<li>
+							<a href="#" class="scroll w3l_contact">
+								<i class="fa fa-download" aria-hidden="true">
+								</i> 
+								Descargar CV
+							</a>
+						</li>
 					</ul>
 				</div>
 			</div>

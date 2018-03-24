@@ -14,7 +14,7 @@
 						</div>
 						<div class="about-modal wthree">
 							<h3>Hi, I'm <span>Carlos Amores</span></h3>
-							<h4>Web Developer</h4>
+							<h4>Programador Back-end</h4>
 							<ul class="address">
 								<li>
 									<ul class="agileits-address-text ">

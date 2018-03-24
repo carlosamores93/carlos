@@ -37,9 +37,9 @@
 
 
 	<?php
-	/*
+	
     	require("aboutmeModal.php");
-    */
+    
     ?>
 
 	<?php
