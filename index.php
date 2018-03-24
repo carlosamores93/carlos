@@ -60,6 +60,12 @@
     
     ?>
 
+    <?php
+    
+    	require("experiencia.php");
+    
+    ?>
+
  	<?php
  	
     	require("contact.php");
