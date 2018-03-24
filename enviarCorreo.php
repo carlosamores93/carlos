@@ -18,5 +18,7 @@
 		session_start();
         $_SESSION["mensaje"] = 'ok';
         header('Location: index.php');
+	}else{
+		$_SESSION["mensaje"] = 'ko';
 	}
 ?>
