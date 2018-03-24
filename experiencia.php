@@ -22,7 +22,7 @@
 			     </div>
 				 <div class="education-agile-w3l-info">
 				       <h4> <a href="https://www.iahorro.com" target="_blank">iAhorro</a></h4>
-					   <p>Beca de <strong> 9 meses</strong> 9 meses en el departamento de IT de iAhorro, perteneciente al grupo BC. Mantenimiento y evolución de componentes de código ya existentes. Desarrollo web (Front End y Back End) y desarrollo de APIs RESTFul y webservices.
+					   <p>Beca de <strong> 9 meses</strong> en el departamento de IT de iAhorro, perteneciente al grupo BC. Mantenimiento y evolución de componentes de código ya existentes. Desarrollo web (Front End y Back End) y desarrollo de APIs RESTFul y webservices.
 					   </p>
 					  
 			     </div>

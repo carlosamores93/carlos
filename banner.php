@@ -47,6 +47,8 @@
 								Conóceme
 							</a>
 						</li>
+
+					<!--
 						<li>
 							<a href="#" class="scroll w3l_contact">
 								<i class="fa fa-download" aria-hidden="true">
@@ -54,6 +56,7 @@
 								Descargar CV
 							</a>
 						</li>
+					-->
 					</ul>
 				</div>
 			</div>
