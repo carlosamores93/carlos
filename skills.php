@@ -8,7 +8,7 @@
 					<img src="images/s1.jpg" alt="" class="img-responsive" />
 					<div class="agile-caption">
 						<h3>Web</h3>
-						<p>Conocimientos en leguajes de páginas web como HTML, PHP, CSS, jQuery, MySQL, AngularJS, framework Laravel, framework Bootstrap.</p>
+						<p> HTML, PHP, CSS, jQuery, MySQL, AngularJS, Laravel, Bootstrap.</p>
 					</div> 
 				</div>
 				</div>
@@ -17,7 +17,7 @@
 					<img src="images/s2.jpg" alt="" class="img-responsive" />
 					<div class="agile-caption">
 						<h3>Redes</h3>
-						<p>Conocimientos de los tipos de redes, protocolos, seguridad, electrónica y sistemas embebidos.</p>
+						<p>Redes, rotocolos, seguridad, electrónica y sistemas embebidos.</p>
 					</div> 
 				</div>
 				</div>
@@ -27,7 +27,7 @@
 					<img src="images/s3.jpg" alt="" class="img-responsive" />
 					<div class="agile-caption">
 						<h3>C/C++</h3>
-						<p>Conocimientos C, C++ desarrollado con Visual Studio.</p>
+						<p>C, C++, desarrollado con Visual Studio.</p>
 					</div> 
 				</div>
 				</div>
@@ -36,7 +36,7 @@
 					<img src="images/s4.jpg" alt="" class="img-responsive" />
 					<div class="agile-caption">
 						<h3>POO</h3>
-						<p>Conocimientos programación orientada objetos Java y C++, desarrollado con Eclipse </p>
+						<p>POO con Java y C++, desarrollado con Eclipse </p>
 					</div> 
 				</div>
 				</div>
