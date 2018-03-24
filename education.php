@@ -1,6 +1,6 @@
 <div class="education" id="education">
-    <div class="education-w3l">
-	     <h3 data-aos="zoom-in" class="w3l_head three">My Education</h3>
+    <div class="text-center education-w3l">
+	     <h3 data-aos="zoom-in" class="w3l_head three">Educación</h3>
 		  <div class="education-agile-grids">
 			  <div class="education-agile-w3l">
 			     <div class="education-agile-w3l-year">
