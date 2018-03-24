@@ -5,12 +5,13 @@
 		<p> Viví gran parte de mi infancia en mi pais de nacimiento. A los 7 años viaje a Madrid y es aquí donde he estudié parte de Primaria, ESO, el Bachiller y la Universidad.
 		</p>
 
-
-		<ul >
-			<li>Active item</li>
-			<li>Second item</li>
-			<li >Third item</li>
-		</ul>
+		<p>
+			<ul >
+				<li>Active item</li>
+				<li>Second item</li>
+				<li >Third item</li>
+			</ul>
+		</p>
 		<p> <strong> Primaria:</strong> de 3º  a 6º en el Colegio Dulce Nombre de Jesús, barrio Salamca, Madrid.</p>
 		<p> <strong> Educación Secundaria Obligatoria:</strong> de 1º a 4º ESO en el IES Carlos Mª Rodriguez de Valcárcel , barrio Moratalaz, Madrid.</p>
 		<p> <strong> Bachillerato:</strong> de 1º a 2º en el IES Felipe II , barrio Moratalaz, Madrid.</p>
