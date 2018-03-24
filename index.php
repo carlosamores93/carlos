@@ -35,31 +35,41 @@
 
 
 
-<!--
+
 	<?php
+	/*
     	require("aboutmeModal.php");
+    */
     ?>
 
 	<?php
+	/*
     	require("aboutme.php");
+    */
     ?>
 
     <?php
+    /*
     	require("skills.php");
+    */
     ?>
 
     <?php
+    /*
     	require("education.php");
+    */
     ?>
 
  	<?php
+ 	/*
     	require("contact.php");
+    */
     ?>
 	
 	<?php
-	
+	/*
     	require("location.php");
-	
+	*/
     ?>
 
     <?php
@@ -68,7 +78,6 @@
     	*/
 	?>
 
--->
 	<?php
     	require("footer.php");
     ?>
