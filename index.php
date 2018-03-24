@@ -34,6 +34,8 @@
     ?>
 
 
+
+<!--
 	<?php
     	require("aboutmeModal.php");
     ?>
@@ -66,6 +68,7 @@
     	*/
 	?>
 
+-->
 	<?php
     	require("footer.php");
     ?>
