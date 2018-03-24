@@ -17,7 +17,7 @@
 					</div>
 				<div class="clearfix"> </div>
 				<textarea name="Message" placeholder="Message..." required=""></textarea>
-				<input type="submit" value="Submit">
+				<input type="submit" value="Submit" data-toggle="modal" data-target="#myModal">
 			</form>
 		</div>
 

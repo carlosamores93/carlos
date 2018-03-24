@@ -15,10 +15,6 @@
 	$mensaje = 'Mensaje de ' . $nombre . ', con email ' . $email . '. Mensaje: ' . $msg;
 
 	if(mail('amorescarlos93@hotmail.com', $asunto, $mensaje)){
-		session_start();
-        $_SESSION["mensaje"] = 'ok';
         header('Location: index.php');
-	}else{
-		$_SESSION["mensaje"] = 'ko';
 	}
 ?>

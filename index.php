@@ -34,15 +34,6 @@
     ?>
 
 
-<?php
-    if (!isset($_SESSION)){
-        session_start();
-        if (isset($_SESSION["mensaje"]) && $_SESSION["mensaje"] == 'ok') {
-        	echo "<script language='JavaScript'>alert('Mensaje enviado');</script>"; 
-        }
-    }
-?>
-
 
 	<?php
 	
@@ -77,6 +68,12 @@
  	<?php
  	
     	require("contact.php");
+    
+    ?>
+
+    <?php
+ 	
+    	require("mensajeModal.php");
     
     ?>
 	
