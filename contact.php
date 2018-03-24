@@ -9,7 +9,7 @@
 			<form action="enviarCorreo.php" method="post">
 					<div class="col-md-6 agileits_agile_about_mail_left">
 						<input type="text" name="Name" placeholder="Name" required="">
-						<input type="text" name="Subject" placeholder="Company Name" required="">
+						<input type="text" name="CompanyName" placeholder="CompanyName" required="">
 					</div>
 					<div class="col-md-6 agileits_agile_about_mail_left">
 						<input type="email" name="Email" placeholder="Email" required="">
