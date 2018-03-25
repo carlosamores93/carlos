@@ -12,7 +12,7 @@
 
 
 
-	$mensaje = 'Mensaje de ' . $nombre . ', con email ' . $email . '. Mensaje: ' . $msg;
+	$mensaje = 'Mensaje de ' . $nombre . ', con email ' . $email . '  y número de teléfono: ' . $tel . '. Mensaje: ' . $msg;
 
 	if(mail('amorescarlos93@hotmail.com', $asunto, $mensaje)){
         header('Location: index.php');
