@@ -17,7 +17,7 @@
 					<img src="images/s2.jpg" alt="" class="img-responsive" />
 					<div class="agile-caption">
 						<h3>Redes</h3>
-						<p>Redes, rotocolos, seguridad, electrónica y sistemas embebidos.</p>
+						<p>Redes, protocolos, seguridad, electrónica y sistemas embebidos.</p>
 					</div> 
 				</div>
 				</div>
