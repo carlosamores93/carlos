@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title> Carlos Salvador Amores Martínez</title>
+		<title> Carlos Salvador Amores Martínez </title>
+		<meta name="DC.title" content="Carlos Salvador Amores Martínez">
 		<link rel="icon" href="images/carlos.png">
 		<link rel="canonical" href="http://www.carlosamores.hol.es">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="description" content="Pagina de Carlos Salvador Amores Martinez, trabajador de iAhorro B. S. Vivo en Madrid, tengo 24 años." />
-
+		<meta name="description" content="Web CV de Carlos S. Amores M, trabajador de iAhorro.com como Programador Back End, tengo 25 años y vivo en Moratalaz (28030), Madrid." />
+		<meta name="DC.description" content="Web CV de Carlos S. Amores M, trabajador de iAhorro.com como Programador Back End, tengo 25 años y vivo en Moratalaz (28030), Madrid.">
 
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
