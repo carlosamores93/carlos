@@ -1,6 +1,6 @@
 <!-- banner -->
 <div class="banner" id="home">
-	<div class="agileinfo-dot" itemscope itemtype="http://schema.org/Person">
+	<div class="agileinfo-dot">
 		<div class="container">
 		<!-- header -->
 		<div class="header-w3layouts"> 

@@ -35,18 +35,20 @@
     ?>
 
 
-
-	<?php
+    <div itemscope itemtype="http://schema.org/Person">
+    	<?php
 	
     	require("aboutmeModal.php");
-    
-    ?>
 
-	<?php
+	    ?>
+
+		<?php
+		
+	    	require("aboutme.php");
+	    
+	    ?>
+    </div>
 	
-    	require("aboutme.php");
-    
-    ?>
 
     <?php
     
