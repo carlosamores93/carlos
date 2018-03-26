@@ -15,13 +15,13 @@
 						</div>
 					-->
 						<div class="about-modal wthree">
-							<h3> <span>Carlos S Amores M</span></h3>
+							<h3> <span temprop="name" >Carlos Salvador Amores Martínez</span></h3>
 							<h4>Programador back-end</h4>
 							<ul class="address">
 								<li>
 									<ul class="agileits-address-text ">
 										<li><b>Birthday</b></li>
-										<li>1 March 1993</li>
+										<li temprop="birthDate">1 March 1993</li>
 									</ul>
 								</li>
 								<li>
@@ -39,7 +39,7 @@
 								<li>
 									<ul class="agileits-address-text">
 										<li><b>E-mail </b></li>
-										<li><a href="mailto:amorescarlos93@hotmail.com"> amorescarlos93@hotmail.com</a></li>
+										<li temprop="email"><a href="mailto:amorescarlos93@hotmail.com"> amorescarlos93@hotmail.com</a></li>
 									</ul>
 								</li>
 								

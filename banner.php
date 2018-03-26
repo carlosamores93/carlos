@@ -39,7 +39,7 @@
 				<div class="w3_banner_info_grid">
 					<h2 data-aos="fade-right">Hola, soy </h2>
 					<h2 data-aos="fade-right">Carlos Amores</h2>
-					<h5>Desarrollador Web</h5>
+					<h5>Programador Back End</h5>
 					<p> </p>
 					<ul data-aos="slide-up">
 						<li>
