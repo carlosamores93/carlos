@@ -42,8 +42,8 @@
 			</div>
 			<div class="clearfix"></div>
 			<ul class="top-links">
-				<li data-aos="flip-right"><a href="https://github.com/carlosamores93"><i class="fa fa-github"></i></a></li>
-				<li data-aos="flip-right"><a href="https://es.linkedin.com/in/carlos-salvador-amores-mart%C3%ADnez-185a66147"><i class="fa fa-linkedin"></i></a></li>
+				<li data-aos="flip-right"><a href="https://github.com/carlosamores93" target='_blank'><i class="fa fa-github"></i></a></li>
+				<li data-aos="flip-right"><a href="https://es.linkedin.com/in/carlos-salvador-amores-mart%C3%ADnez-185a66147" target='_blank'><i class="fa fa-linkedin"></i></a></li>
 			</ul>
 		</div>
 		<div class="clearfix"></div>
