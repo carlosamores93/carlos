@@ -1,7 +1,7 @@
 <div class="about" id="about">
 	<h3 data-aos="zoom-in">Acerca de mi </h3>
-	<div class="col-md-6 about-left">
-		<p>Me llamo Carlos Salvador Amores Martínez, nací el 1 de Marzo de 1993 en <a href="http://www.lamana.gob.ec/" target='_blank'>La Maná</a>, <a href="https://ecuadoramalavida.com.ec/" target='_blank'>Ecuador</a></p>
+	<div class="col-md-6 about-left" itemscope itemtype="http://schema.org/Person">
+		<p>Me llamo <span itemprop="name"> Carlos Salvador Amores Martínez</span> Carlos Salvador Amores Martínez, nací el 1 de Marzo de 1993 en <a href="http://www.lamana.gob.ec/" target='_blank'>La Maná</a>, <a href="https://ecuadoramalavida.com.ec/" target='_blank'>Ecuador</a></p>
 		<p> Viví gran parte de mi infancia en mi pais de nacimiento. A los 7 años viaje a Madrid y es aquí donde estudié parte de Primaria, ESO, el Bachiller y la Universidad.
 		</p>
 		<p> <strong> Primaria:</strong> de 3º  a 6º en el Colegio Dulce Nombre de Jesús, barrio Salamanca, Madrid.</p>
