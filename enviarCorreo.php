@@ -14,7 +14,7 @@
 
 	$mensaje = 'Mensaje de ' . $nombre . ', con email ' . $email . '  y número de teléfono: ' . $tel . '. Mensaje: ' . $msg;
 
-	if(mail('amorescarlos93@hotmail.com', $asunto, $mensaje)){
+	if(mail('admin@amorescarlos.com', $asunto, $mensaje)){
         header('Location: index.php');
 	}
 ?>
