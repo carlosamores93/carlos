@@ -17,7 +17,7 @@
 					</div>
 				<div class="clearfix"> </div>
 				<textarea name="Message" placeholder="Message..." required=""></textarea>
-				<input type="submit" value="Submit" data-toggle="modal" data-target="#myModalMSG">
+				<input type="submit" value="Enviar" data-toggle="modal" data-target="#myModalMSG">
 			</form>
 		</div>
 
@@ -26,12 +26,12 @@
 		<div class="col-md-6 contact-right">
 			<div data-aos="flip-down" class="col-md-6 contactright1">
 			<span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>
-			<h4>Location</h4>
+			<h4>Ubicación</h4>
 			<p>Moratalaz, Madrid, España</p>
 			</div>
 			<div data-aos="flip-down" class="col-md-6 contactright1">
 			<span class="glyphicon glyphicon-phone" aria-hidden="true"></span>
-			<h4>Phone</h4>
+			<h4>Teléfono</h4>
 			<p>+0(34)628 60 60 93</p>
 			</div>
 			<div class="clearfix"></div>			
