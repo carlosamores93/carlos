@@ -5,7 +5,9 @@
 		<p> <strong> Educación Secundaria Obligatoria:</strong> de 1º a 4º ESO en el IES Carlos Mª Rodriguez de Valcárcel , barrio Moratalaz, Madrid.</p>
 		<p> <strong> Bachillerato:</strong> de 1º a 2º en el IES Felipe II , barrio Moratalaz, Madrid.</p>
 		<p> <strong> Grado Ing Computadores:</strong> en la Facultad de Infórmatica, Universidad Complutense de Madrid.</p>
-		<img src="" itemprop="image" alt="Firma Carlos Amores" />
+		<p class='text-center'>
+			<img src="/images/firma.png" itemprop="image" alt="Firma Carlos Amores" />
+		</p>
 	</div>
 	<div data-aos="flip-right" class="col-md-6 about-right">
 		<img itemprop="photo" src="" alt="Foto Carlos Amores" />
